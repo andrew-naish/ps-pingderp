@@ -1,0 +1,12 @@
+<ConfigFile>
+    <General>
+        <PosX>100</PosX>
+        <PosY>100</PosY>
+    </General>
+    <PingDerplings>
+        <!-- Type 'colour /?' in cmd to check available colours -->
+        <derp name="Google" host="8.8.8.8" concol="90" conlines="3" />
+        <derp name="Cloudflare #1" host="1.1.1.1" concol="B0" conlines="2"/>
+        <derp name="Cloudflare #2" host="1.0.0.1" concol="C0" conlines="1"/>
+    </PingDerplings>
+</ConfigFile>
